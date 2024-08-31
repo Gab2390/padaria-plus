@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    background-color: #f4f0e5;
+    font-family: Tahoma, sans-serif;
+}
+
+.secao {
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.imagem-logotipo {
+    width: 200px;
+}
+
+a {
+    margin: 0 10px;
+    color: #542f0c;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 28px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-top: 1px solid #de8e37;
+    padding: 15px 0;
+    color: #fff;
+}
+
+/* Estilos sugeridos pelo professor */
+h2, h4, h5 {
+    font-size: 24px;
+    margin-bottom: 15px;
+    color: #de8e37;
+}
+
+.banner {
+    width: 100%;
+    height: auto;
+}
+
+.destaques {
+    border: 1px solid #de8e37;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+
+span {
+    color: #de8e37;
+    font-weight: bold;
+}
